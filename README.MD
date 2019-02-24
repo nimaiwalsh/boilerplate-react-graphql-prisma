@@ -1,0 +1,1 @@
+Boilerplate for React with Next.js, GraphQL with Apollo client and Yoga, Prisma backend by Wes Bos

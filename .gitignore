@@ -1,6 +1,7 @@
 backend/node_modules
 frontend/node_modules
 .DS_STORE
+node_modules
 *.log*
 *.next/
 *.build/
